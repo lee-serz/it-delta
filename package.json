@@ -1,0 +1,14 @@
+{
+  "name": "vanilla-js-project",
+  "version": "1.0.0",
+  "description": "A simple project using vanilla JavaScript and Yarn",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.0"
+  }
+}
